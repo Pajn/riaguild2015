@@ -14,6 +14,6 @@ module.exports = {
 	SheriefBadran: require("./users/SheriefBadran"),
 	Grenmyr: require("./users/DavidGrenmyr.json"),
 	em222iv: require("./users/em222iv.json"),
-	jn222na: require("./users/jn222na.json")
-
+	jn222na: require("./users/jn222na.json"),
+	Pajn: require("./users/pajn.json"),
 };
